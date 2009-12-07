@@ -20,7 +20,7 @@ You can get recent dumps of all Wikimedia wikis at:
 http://download.wikimedia.org/backup-index.html
 
 The pages-meta-history.xml file is what we want. (In case you’re wondering:
-Wikimedia does not offer content SQL dumps anymore, and there are now full-
+Wikimedia does not offer content SQL dumps anymore, and there are no full-
 history dump for en.wikipedia.org because of its size.) It includes all pages
 in all namespaces and all of their revisions.
 
